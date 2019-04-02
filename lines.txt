@@ -1,0 +1,320 @@
+Luser1 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Hi
+Lbot1 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Hello
+Luser2 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ what's your name
+Lbot2 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ i am chatbot
+Luser3 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How are you
+Lbot3 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ i am fine thank you
+Luser4 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ my phone is not responding
+Lbot4 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ is you phone on
+Luser5 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ yes
+Lbot5 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ try option1 , option2 , option3
+Luser6 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ option1
+Lbot6 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ do this
+Luser7 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ done
+Lbot7 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ try option2
+Luser8 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ done
+Lbot8 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ can i help you with something else
+Luser1 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Hi
+Lbot1 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Hello
+Luser2 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ what's your name
+Lbot2 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ i am chatbot
+Luser3 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How are you
+Lbot3 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ i am fine thank you
+Luser4 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ my phone is not responding
+Lbot4 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ is you phone on
+Luser5 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ yes
+Lbot5 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ try option1 , option2 , option3
+Luser6 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ option1
+Lbot6 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ do this
+Luser7 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ done
+Lbot7 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ try option2
+Luser8 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ done
+Lbot8 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ can i help you with something else
+Luser1 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Hi
+Lbot1 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Hello
+Luser2 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ what's your name
+Lbot2 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ i am chatbot
+Luser3 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How are you
+Lbot3 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ i am fine thank you
+Luser4 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ my phone is not responding
+Lbot4 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ is you phone on
+Luser5 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ yes
+Lbot5 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ try option1 , option2 , option3
+Luser6 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ option1
+Lbot6 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ do this
+Luser7 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ done
+Lbot7 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ try option2
+Luser8 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ done
+Lbot8 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ can i help you with something else
+Luser1 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Hi
+Lbot1 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Hello
+Luser2 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ what's your name
+Lbot2 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ i am chatbot
+Luser3 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How are you
+Lbot3 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ i am fine thank you
+Luser4 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ my phone is not responding
+Lbot4 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ is you phone on
+Luser5 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ yes
+Lbot5 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ try option1 , option2 , option3
+Luser6 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ option1
+Lbot6 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ do this
+Luser7 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ done
+Lbot7 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ try option2
+Luser8 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ done
+Lbot8 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ can i help you with something else
+Luser1 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Hi
+Lbot1 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Hello
+Luser2 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ what's your name
+Lbot2 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ i am chatbot
+Luser3 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How are you
+Lbot3 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ i am fine thank you
+Luser4 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ my phone is not responding
+Lbot4 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ is you phone on
+Luser5 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ yes
+Lbot5 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ try option1 , option2 , option3
+Luser6 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ option1
+Lbot6 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ do this
+Luser7 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ done
+Lbot7 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ try option2
+Luser8 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ done
+Lbot8 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ can i help you with something else
+Luser1 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Hi
+Lbot1 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Hello
+Luser2 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ what's your name
+Lbot2 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ i am chatbot
+Luser3 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How are you
+Lbot3 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ i am fine thank you
+Luser4 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ my phone is not responding
+Lbot4 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ is you phone on
+Luser5 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ yes
+Lbot5 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ try option1 , option2 , option3
+Luser6 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ option1
+Lbot6 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ do this
+Luser7 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ done
+Lbot7 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ try option2
+Luser8 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ done
+Lbot8 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ can i help you with something else
+Luser1 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Hi
+Lbot1 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Hello
+Luser2 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ what's your name
+Lbot2 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ i am chatbot
+Luser3 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How are you
+Lbot3 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ i am fine thank you
+Luser4 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ my phone is not responding
+Lbot4 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ is you phone on
+Luser5 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ yes
+Lbot5 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ try option1 , option2 , option3
+Luser6 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ option1
+Lbot6 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ do this
+Luser7 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ done
+Lbot7 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ try option2
+Luser8 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ done
+Lbot8 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ can i help you with something else
+Luser1 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Hi
+Lbot1 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Hello
+Luser2 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ what's your name
+Lbot2 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ i am chatbot
+Luser3 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How are you
+Lbot3 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ i am fine thank you
+Luser4 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ my phone is not responding
+Lbot4 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ is you phone on
+Luser5 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ yes
+Lbot5 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ try option1 , option2 , option3
+Luser6 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ option1
+Lbot6 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ do this
+Luser7 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ done
+Lbot7 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ try option2
+Luser8 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ done
+Lbot8 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ can i help you with something else
+Luser1 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Hi
+Lbot1 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Hello
+Luser2 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ what's your name
+Lbot2 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ i am chatbot
+Luser3 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How are you
+Lbot3 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ i am fine thank you
+Luser4 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ my phone is not responding
+Lbot4 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ is you phone on
+Luser5 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ yes
+Lbot5 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ try option1 , option2 , option3
+Luser6 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ option1
+Lbot6 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ do this
+Luser7 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ done
+Lbot7 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ try option2
+Luser8 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ done
+Lbot8 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ can i help you with something else
+Luser1 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Hi
+Lbot1 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Hello
+Luser2 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ what's your name
+Lbot2 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ i am chatbot
+Luser3 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How are you
+Lbot3 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ i am fine thank you
+Luser4 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ my phone is not responding
+Lbot4 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ is you phone on
+Luser5 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ yes
+Lbot5 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ try option1 , option2 , option3
+Luser6 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ option1
+Lbot6 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ do this
+Luser7 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ done
+Lbot7 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ try option2
+Luser8 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ done
+Lbot8 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ can i help you with something else
+Luser1 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Hi
+Lbot1 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Hello
+Luser2 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ what's your name
+Lbot2 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ i am chatbot
+Luser3 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How are you
+Lbot3 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ i am fine thank you
+Luser4 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ my phone is not responding
+Lbot4 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ is you phone on
+Luser5 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ yes
+Lbot5 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ try option1 , option2 , option3
+Luser6 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ option1
+Lbot6 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ do this
+Luser7 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ done
+Lbot7 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ try option2
+Luser8 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ done
+Lbot8 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ can i help you with something else
+Luser1 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Hi
+Lbot1 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Hello
+Luser2 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ what's your name
+Lbot2 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ i am chatbot
+Luser3 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How are you
+Lbot3 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ i am fine thank you
+Luser4 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ my phone is not responding
+Lbot4 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ is you phone on
+Luser5 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ yes
+Lbot5 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ try option1 , option2 , option3
+Luser6 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ option1
+Lbot6 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ do this
+Luser7 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ done
+Lbot7 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ try option2
+Luser8 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ done
+Lbot8 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ can i help you with something else
+Luser1 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Hi
+Lbot1 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Hello
+Luser2 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ what's your name
+Lbot2 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ i am chatbot
+Luser3 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How are you
+Lbot3 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ i am fine thank you
+Luser4 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ my phone is not responding
+Lbot4 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ is you phone on
+Luser5 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ yes
+Lbot5 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ try option1 , option2 , option3
+Luser6 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ option1
+Lbot6 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ do this
+Luser7 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ done
+Lbot7 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ try option2
+Luser8 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ done
+Lbot8 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ can i help you with something else
+Luser1 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Hi
+Lbot1 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Hello
+Luser2 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ what's your name
+Lbot2 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ i am chatbot
+Luser3 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How are you
+Lbot3 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ i am fine thank you
+Luser4 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ my phone is not responding
+Lbot4 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ is you phone on
+Luser5 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ yes
+Lbot5 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ try option1 , option2 , option3
+Luser6 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ option1
+Lbot6 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ do this
+Luser7 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ done
+Lbot7 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ try option2
+Luser8 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ done
+Lbot8 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ can i help you with something else
+Luser1 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Hi
+Lbot1 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Hello
+Luser2 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ what's your name
+Lbot2 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ i am chatbot
+Luser3 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How are you
+Lbot3 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ i am fine thank you
+Luser4 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ my phone is not responding
+Lbot4 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ is you phone on
+Luser5 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ yes
+Lbot5 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ try option1 , option2 , option3
+Luser6 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ option1
+Lbot6 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ do this
+Luser7 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ done
+Lbot7 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ try option2
+Luser8 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ done
+Lbot8 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ can i help you with something else
+Luser1 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Hi
+Lbot1 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Hello
+Luser2 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ what's your name
+Lbot2 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ i am chatbot
+Luser3 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How are you
+Lbot3 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ i am fine thank you
+Luser4 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ my phone is not responding
+Lbot4 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ is you phone on
+Luser5 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ yes
+Lbot5 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ try option1 , option2 , option3
+Luser6 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ option1
+Lbot6 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ do this
+Luser7 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ done
+Lbot7 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ try option2
+Luser8 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ done
+Lbot8 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ can i help you with something else
+Luser1 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Hi
+Lbot1 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Hello
+Luser2 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ what's your name
+Lbot2 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ i am chatbot
+Luser3 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How are you
+Lbot3 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ i am fine thank you
+Luser4 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ my phone is not responding
+Lbot4 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ is you phone on
+Luser5 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ yes
+Lbot5 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ try option1 , option2 , option3
+Luser6 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ option1
+Lbot6 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ do this
+Luser7 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ done
+Lbot7 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ try option2
+Luser8 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ done
+Lbot8 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ can i help you with something else
+Luser1 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Hi
+Lbot1 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Hello
+Luser2 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ what's your name
+Lbot2 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ i am chatbot
+Luser3 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How are you
+Lbot3 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ i am fine thank you
+Luser4 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ my phone is not responding
+Lbot4 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ is you phone on
+Luser5 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ yes
+Lbot5 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ try option1 , option2 , option3
+Luser6 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ option1
+Lbot6 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ do this
+Luser7 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ done
+Lbot7 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ try option2
+Luser8 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ done
+Lbot8 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ can i help you with something else
+Luser1 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Hi
+Lbot1 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Hello
+Luser2 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ what's your name
+Lbot2 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ i am chatbot
+Luser3 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How are you
+Lbot3 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ i am fine thank you
+Luser4 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ my phone is not responding
+Lbot4 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ is you phone on
+Luser5 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ yes
+Lbot5 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ try option1 , option2 , option3
+Luser6 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ option1
+Lbot6 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ do this
+Luser7 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ done
+Lbot7 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ try option2
+Luser8 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ done
+Lbot8 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ can i help you with something else
+Luser1 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Hi
+Lbot1 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Hello
+Luser2 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ what's your name
+Lbot2 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ i am chatbot
+Luser3 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How are you
+Lbot3 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ i am fine thank you
+Luser4 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ my phone is not responding
+Lbot4 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ is you phone on
+Luser5 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ yes
+Lbot5 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ try option1 , option2 , option3
+Luser6 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ option1
+Lbot6 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ do this
+Luser7 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ done
+Lbot7 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ try option2
+Luser8 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ done
+Lbot8 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ can i help you with something else
